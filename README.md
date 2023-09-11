@@ -49,4 +49,4 @@ Hi, I'm Azmi Farhan, a backend developer specialising in the web API Services. F
 
 **My Stats**
 
-<p> <img src="http://github-readme-streak-stats.herokuapp.com?user=azmi17&theme=dark&locale=id" alt="azmi17" />
+<p> <img src="https://github-readme-streak-stats.herokuapp.com/?user=azmi17" alt="azmi17" />
