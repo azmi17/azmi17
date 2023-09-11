@@ -15,6 +15,12 @@ Hi, I'm Azmi Farhan, a backend developer specialising in the web API Services. F
 <a href="https://twitter.com/azmi_farhan17">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
+<a href="https://instagram.com/azmifarrhan">
+  <img src="https://img.shields.io/badge/instagram-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+</a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/thereddevilsince1878/">
+  <img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+</a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/azmifarhan17/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
