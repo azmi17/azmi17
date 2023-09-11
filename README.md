@@ -7,7 +7,7 @@
 Hi, I'm Azmi Farhan, a backend developer specialising in the web API Services. For the last 2 years, I have been developing digital financial services with Go programming languages . I’m currently employed as backend developer at USSI Corp. I’m hands on in all stages of the software development cycle, from planning and design to testing and deployment. No two days are the same for me; my tasks may involve analysing algorithms, altering code, fixing bugs, brainstorming ideas or integrating new systems.
 
 - 👨 💻 I’m currently working on [USSI Corp](https://ussi.co.id/) as Backend Developer.
-- 🌱 I’m currently learning all about backend stuff like Web API services, Software design, Software Architecture and etc
+- 🌱 I’m currently learning all about backend stuff like web API services, software design, software architecture and etc..
 - 👯 I would like to collaborate on any backend project
 - 📫 How to reach me: [azmifarhan80@gmail.com](mailto://azmifarhan80@gmail.com)
 
