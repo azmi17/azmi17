@@ -48,4 +48,5 @@ Hi, I'm Azmi Farhan, a backend developer specialising in the web API Services. F
 <p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmi17&theme=dark" alt="azmi17" />
 
 **My Stats**
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=azmi17&theme=dark&locale=id)](https://git.io/streak-stats)
+
+<p> <img src="http://github-readme-streak-stats.herokuapp.com?user=azmi17&theme=dark&locale=id" alt="azmi17" />
