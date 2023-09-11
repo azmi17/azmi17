@@ -37,10 +37,6 @@ Hi, I'm Azmi Farhan, a backend developer specialising in the web API Services. F
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **This Week I Spent My Time On:**
-
-<p> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=azmi17&theme=dark" alt="azmi17" />
-
 👨‍💻 **My Top Languages**
 
 <p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmi17&theme=dark" alt="azmi17" />
