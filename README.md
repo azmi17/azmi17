@@ -46,7 +46,3 @@ Hi, I'm Azmi Farhan, a backend developer specialising in the web API Services. F
 👨‍💻 **My Top Languages**
 
 <p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmi17&theme=dark" alt="azmi17" />
-
-**My Stats**
-
-<p> <img src="https://github-readme-streak-stats.herokuapp.com/?user=azmi17" alt="azmi17" />
