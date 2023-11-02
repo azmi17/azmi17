@@ -1,7 +1,5 @@
 <h1 align='center'>Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-![](https://visitor-badge.glitch.me/badge?page_id=azmi17)
-
 <br />
 
 Hi, I'm Azmi Farhan, a backend developer specialising in the web API Services. For the last 2 years, I have been developing digital financial services with Go programming languages . I’m currently employed as backend developer at USSI Corp. I’m hands on in all stages of the software development cycle, from planning and design to testing and deployment. No two days are the same for me; my tasks may involve analysing algorithms, altering code, fixing bugs, brainstorming ideas or integrating new systems.
